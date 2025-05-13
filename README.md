@@ -3,7 +3,7 @@
 
 **Software Engineer | Full-Stack Developer | Problem Solver**
 
-Hi, I’m John — a software engineer passionate about building elegant, efficient, and user-centric applications. With a strong foundation in both frontend and backend development, I specialize in crafting digital solutions that deliver real-world impact.
+I’m John — a software engineer passionate about building elegant, efficient, and user-centric applications. With a strong foundation in both frontend and backend development, I specialize in crafting digital solutions that deliver real-world impact.
 
 ## 🚗 Car Price Prediction Using Machine Learning
 
@@ -43,3 +43,13 @@ This project leverages machine learning to predict the selling price of used car
 * Clean, modular code for easy reuse and scaling
 * *(Optional)* Frontend form for live prediction based on user input
 
+--- 
+
+## 🐱🐶 Cats and Dogs Image Classification Using Machine Learning
+
+![Cats and Dogs Classification](images/dogs-cats.png)
+
+📄 **[Download Project Notebook](resources/car-sales.ipynb)**
+
+Overview:
+This project focuses on building an image classification model that can accurately distinguish between cats and dogs. Using convolutional neural networks (CNNs), the model learns from a large dataset of labeled pet images and achieves high accuracy in predicting the correct class. 
